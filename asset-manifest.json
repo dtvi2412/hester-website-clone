@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hester-website-clone/static/css/main.bf64c7ee.chunk.css",
+    "main.js": "/hester-website-clone/static/js/main.2d35f49a.chunk.js",
+    "main.js.map": "/hester-website-clone/static/js/main.2d35f49a.chunk.js.map",
+    "runtime-main.js": "/hester-website-clone/static/js/runtime-main.7b60b334.js",
+    "runtime-main.js.map": "/hester-website-clone/static/js/runtime-main.7b60b334.js.map",
+    "static/js/2.65b93181.chunk.js": "/hester-website-clone/static/js/2.65b93181.chunk.js",
+    "static/js/2.65b93181.chunk.js.map": "/hester-website-clone/static/js/2.65b93181.chunk.js.map",
+    "static/js/3.467cc851.chunk.js": "/hester-website-clone/static/js/3.467cc851.chunk.js",
+    "static/js/3.467cc851.chunk.js.map": "/hester-website-clone/static/js/3.467cc851.chunk.js.map",
+    "index.html": "/hester-website-clone/index.html",
+    "static/css/main.bf64c7ee.chunk.css.map": "/hester-website-clone/static/css/main.bf64c7ee.chunk.css.map",
+    "static/js/2.65b93181.chunk.js.LICENSE.txt": "/hester-website-clone/static/js/2.65b93181.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b60b334.js",
+    "static/js/2.65b93181.chunk.js",
+    "static/css/main.bf64c7ee.chunk.css",
+    "static/js/main.2d35f49a.chunk.js"
+  ]
+}
